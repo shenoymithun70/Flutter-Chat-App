@@ -1,7 +1,6 @@
 # chat_app
 
-A new Flutter project.
-
+This is cross platform chat app built using flutter and firebase cloud database. This app also uses firebase cloud messaging services.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
